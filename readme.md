@@ -1,7 +1,7 @@
 # API node + mysql + knex.js
-## An simple API who implements a CRUD events, using the library knex js + mysql
+### An simple API who implements a CRUD events, using the library knex js + mysql
 
-## Commands used:
+### Commands used:
 
 ### npm init -y
 ### npm install express
