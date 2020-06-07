@@ -3,8 +3,8 @@
 
 ### Commands used:
 
-### npm init -y
-### npm install express
-### npm i --save knex mysql
+#### npm init -y
+#### npm install express
+#### npm i --save knex mysql
 
-### serve the file with: node index.js
+#### serve the file with: node index.js
